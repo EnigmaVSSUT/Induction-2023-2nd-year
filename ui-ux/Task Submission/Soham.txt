@@ -1,0 +1,5 @@
+1. Create a folder of your name in Task Submission folder. 
+2. Then add the images of design from figma in the Task submission folder.
+3. Then create a text file in your name and add your figma design link and prototype link there in the given format.
+Figma Design Link: <Link>
+Figma Prototype link: <Link>
