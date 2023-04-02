@@ -4,11 +4,11 @@
 
 Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Android apps can be written using Kotlin, Java, and C++ languages using the Android software development kit.
 
-# Task: Create a YouTube Clone Website using React
+# Task: Create a Sudoku App
 
 ## Overview
 
-In this task, you will be creating a YouTube clone website using React. The app should exactly show the same behaviour as a real world sudoku game. You can also add additional features , if you want.
+In this task, you will be creating a Sudoku app using Android/Flutter. The app should exactly show the same behaviour as a real world sudoku game. You can also add additional features , if you want.
 ## Requirements
 
 - The app must be built using Native Android or Flutter.
