@@ -32,7 +32,6 @@ Your work will be evaluated based on the following criteria:
 
 - The game must be fully functional and meet the requirements outlined above.
 - The code must be well-written, with clear and concise comments where necessary.
-- The game should be visually appealing and easy to navigate.
 - Additional features will be evaluated based on their creativity.
 
 ## Deadline
