@@ -49,5 +49,6 @@ If you need any help or inspiration, here are some resources you may find useful
 - [Camera Scripting Documentation](https://docs.unity3d.com/ScriptReference/Camera.html)
 - [Destroy Scripting Documentation](https://docs.unity3d.com/ScriptReference/Object.Destroy.html)
 - [Exporting a Game](https://youtu.be/7nxKAtxGSn8)
+- [Hosting on Netlify](https://www.youtube.com/watch?v=q8R3IkbaDso)
 
 If you have any questions or need any help, don't hesitate to ask!
