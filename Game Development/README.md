@@ -1,6 +1,7 @@
 <img src="https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/blob/main/Game%20Development/assets/Unity.png" width="160">
 
 # Game Development
+
 Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design.
 
 # Task: Create a 3D game. Details are mentioned below.
@@ -38,7 +39,7 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
-After completion of your task add a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/Web%20development/Task%20Submission) folder with your hosted itch.io link.
+After completion of your task add the zipfile and a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/Web%20development/Task%20Submission) folder with your hosted itch.io link.
 
 ## Resources
 
@@ -48,6 +49,5 @@ If you need any help or inspiration, here are some resources you may find useful
 - [YouTube API documentation](https://developers.google.com/youtube/)
 - [React Video Player package](https://www.npmjs.com/package/react-player)
 - [React Notifications package](https://www.npmjs.com/package/react-notifications)
-
 
 If you have any questions or need any help, don't hesitate to ask!
