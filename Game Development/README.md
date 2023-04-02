@@ -31,7 +31,7 @@ Your work will be evaluated based on the following criteria:
 - The game must be fully functional and meet the requirements outlined above.
 - The code must be well-written, with clear and concise comments where necessary.
 - The game should be visually appealing and easy to navigate.
-- Additional features will be evaluated based on their usefulness and creativity.
+- Additional features will be evaluated based on their creativity.
 
 ## Deadline
 
@@ -39,15 +39,14 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
-After completion of your task add the zipfile and a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/Web%20development/Task%20Submission) folder with your hosted itch.io link.
+After completion of your task add the zipfile and a text file in [Task submission](https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/tree/main/Game%20Development/Task%20Submission) folder with your hosted itch.io link.
 
 ## Resources
 
 If you need any help or inspiration, here are some resources you may find useful:
 
-- [React documentation](https://reactjs.org/docs/getting-started.html)
-- [YouTube API documentation](https://developers.google.com/youtube/)
-- [React Video Player package](https://www.npmjs.com/package/react-player)
-- [React Notifications package](https://www.npmjs.com/package/react-notifications)
-
+- [Input System Documentation](https://docs.unity3d.com/ScriptReference/Input.html)
+- [Camera Scripting Documentation](https://docs.unity3d.com/ScriptReference/Camera.html)
+- [Destroy Scripting Documentation](https://docs.unity3d.com/ScriptReference/Object.Destroy.html)
+- [Exporting a Game](https://youtu.be/7nxKAtxGSn8)
 If you have any questions or need any help, don't hesitate to ask!
