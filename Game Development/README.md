@@ -38,7 +38,7 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
-After completion of your task add a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/Web%20development/Task%20Submission) folder with your repo and hosted website link.
+After completion of your task add a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/Web%20development/Task%20Submission) folder with your hosted itch.io link.
 
 ## Resources
 
