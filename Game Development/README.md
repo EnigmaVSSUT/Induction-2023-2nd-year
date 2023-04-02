@@ -21,8 +21,8 @@ You'll create a 3D game. An arena, a participant (a cube), and a few objects (sp
 
 ## Deliverables
 
-- Export the game in webGL or windows or mac.
-- Upload Zip file of the project.
+- Export the game in webGL or windows or mac and give the link in the Readme file.
+- Provide the Github Repo link of the project.
 - A readme file that includes instructions on how the game works and any additional information you think is relevant.
 - Host your game on [Netlify](https://www.netlify.com/)
 
