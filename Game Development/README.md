@@ -39,7 +39,7 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
-After completion of your task add the zipfile and a text file in [Task submission](https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/tree/main/Game%20Development/Task%20Submission) folder with your hosted itch.io link.
+After completion of your task add the zipfile and a text file in [Task submission](https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/tree/main/Game%20Development/Task%20Submission) folder with your hosted game link.
 
 ## Resources
 
