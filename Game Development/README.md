@@ -40,7 +40,7 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
-After completion of your task add a text file on your name in [Task submission](https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/tree/main/Game%20Development/Task%20Submission) folder with your project's repo link and hosted game link.
+After completion of your task add a text file in [Task submission](https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/tree/main/Game%20Development/Task%20Submission) folder with your project's repo link and hosted game link.
 
 ## Resources
 
