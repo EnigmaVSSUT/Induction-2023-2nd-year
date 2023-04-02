@@ -15,3 +15,7 @@ Here is a list of question you can practise to grasp on some core concepts:
 * [Question 8](https://codeforces.com/problemset/problem/71/A)
 * [Question 9](https://www.codechef.com/problems/EZSPEAK)
 * [Question 10](https://codeforces.com/problemset/problem/158/A)
+
+
+## Contest date:
+**`7 April 2023`**
