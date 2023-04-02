@@ -39,6 +39,8 @@ You will have 10 days to complete this task. Please submit your completed work b
 
 ## Submission
 
+After completion of your task create a folder of your name in [Task Submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/ui-ux/Task%20Submission) folder. Then in that folder add images of your design and add design & prototype link in a text file in that folder of your name. For better understanding check Soham.txt file, there all the steps are defined clearly.
+
 ## Resources
 
 If you need any help or inspiration, here are some resources you may find useful:
