@@ -8,7 +8,7 @@ Game Development is the art of creating games and describes the design, developm
 
 ## Overview
 
-You'll create a 3D game. An arena, a participant (a cube), and a few objects (spheres) of various colours will all be present. Any collectible that the player touches is destroyed, and the score is updated appropriately. The game concludes when all items have been collected.
+You'll create a 3D game. An arena, a participant (a cube), and a few objects (spheres) of various colours will all be present. Any collectible that the player touches is destroyed, and the score is updated appropriately. The game concludes when all items have been collected. You can check the given image for reference.
 
 <img src="https://github.com/sambit32/Induction-2023-2nd-year-and-MCA/blob/main/Game%20Development/assets/Ref.png" width="160">
 
