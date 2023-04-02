@@ -22,7 +22,7 @@ You'll create a 3D game. An arena, a participant (a cube), and a few objects (sp
 - Export the game in webGL or windows or mac.
 - Upload Zip file of the project.
 - A readme file that includes instructions on how the game works and any additional information you think is relevant.
-- Host your game on [itch.io.](https://itch.io/)
+- Host your game on [Netlify](https://www.netlify.com/)
 
 ## Evaluation
 
