@@ -17,7 +17,7 @@ You'll create a 3D game. An arena, a participant (a cube), and a few objects (sp
 - The player should be able to move freely in the arena (asdw).
 - The camera should follow the player.
 - Only when the player touches the spheres are they required to be destroyed.
-- You are free to add any additional features you like to make the website more interesting and engaging.
+- You are free to add any additional features you like to make the game more interesting.
 
 ## Deliverables
 
