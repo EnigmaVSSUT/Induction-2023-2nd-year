@@ -24,7 +24,7 @@ The notebook evaluation will be based on:
 You will have 10 days to complete this task. Please submit your completed work by 11th April 11:59 PM IST.
 
 # Submission 
-After completion of your task add a text file in [Task submission]() folder with your project's repo link
+After completion of your task add a text file in [Task submission](https://github.com/EnigmaVSSUT/Induction-2023-2nd-year-and-MCA/tree/main/AI-ML/Task%20Submission) folder with your project's repo link
 
 # Resources
 For any help, you may refer the following
